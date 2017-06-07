@@ -1,0 +1,6 @@
+c:\users\j.lane\documents\visual studio 2013\Projects\InterviewCSQuestions\InterviewCSQuestions\bin\Debug\InterviewCSQuestions.exe.config
+c:\users\j.lane\documents\visual studio 2013\Projects\InterviewCSQuestions\InterviewCSQuestions\bin\Debug\InterviewCSQuestions.exe
+c:\users\j.lane\documents\visual studio 2013\Projects\InterviewCSQuestions\InterviewCSQuestions\bin\Debug\InterviewCSQuestions.pdb
+c:\users\j.lane\documents\visual studio 2013\Projects\InterviewCSQuestions\InterviewCSQuestions\obj\Debug\InterviewCSQuestions.csprojResolveAssemblyReference.cache
+c:\users\j.lane\documents\visual studio 2013\Projects\InterviewCSQuestions\InterviewCSQuestions\obj\Debug\InterviewCSQuestions.exe
+c:\users\j.lane\documents\visual studio 2013\Projects\InterviewCSQuestions\InterviewCSQuestions\obj\Debug\InterviewCSQuestions.pdb
